@@ -1,6 +1,6 @@
 {
-  "version": "0.4.0",
+  "version": "0.5.1",
   "stage": "Alpha",
-  "build": "",
-  "downloadUrl": "https://github.com/entpnomad/grimdark-cqb-releases/releases/download/v0.4.0/Grimdark-Wars-Alpha-0.4.0-windows-setup.exe"
+  "build": "20261007180229",
+  "downloadUrl": "https://github.com/entpnomad/grimdark-cqb-releases/releases/download/v0.5.1/Grimdark-CQB-Alpha-0.5.1-windows-setup.exe"
 }
